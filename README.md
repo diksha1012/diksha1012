@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Diksha!</h1>
 <h3 align="center">A self-motivated B.tech student who loves to explore, learn and solve problems.And a passionate backend & frontend developer.</h3>
 
-- 🔭 I’m currently working on **Backend & Frontend**
+- 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Python,frontend**
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
-- 💬 Ask me about **DSA,Python**
+- 💬 Ask me about **DSA,C++/C**
 
 - 📫 How to reach me **trivedidiksha357@gmail.com**
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diksha1012&show_icons=true&locale=en" alt="diksha1012" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha1012&" alt="diksha1012" /></p>
+
