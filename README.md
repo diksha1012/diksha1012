@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Diksha!</h1>
 <h3 align="center">A self-motivated B.tech student who loves to explore, learn and solve problems.And a passionate backend & frontend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha1012&label=Profile%20views&color=0e75b6&style=flat" alt="diksha1012" /> </p>
-
 - 🔭 I’m currently working on **Backend & Frontend**
 
 - 🌱 I’m currently learning **Django**
